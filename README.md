@@ -1,2 +1,0 @@
-# flask
-Drinking from Flask
